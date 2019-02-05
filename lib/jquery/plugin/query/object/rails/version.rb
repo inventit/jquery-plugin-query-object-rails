@@ -3,7 +3,7 @@ module Jquery
     module Query
       module Object
         module Rails
-          VERSION = "0.1.0"
+          VERSION = "2.1.7"
         end
       end
     end
